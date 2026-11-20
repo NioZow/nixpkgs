@@ -21622,6 +21622,12 @@
     githubId = 3159451;
     name = "Nicolas Schneider";
   };
+  niozow = {
+    name = "NioZ";
+    email = "nixpkgs@nioz.fr";
+    github = "NioZow";
+    githubId = 104144170;
+  };
   nipeharefa = {
     name = "Nipe Harefa";
     email = "nipeharefa@gmail.com";
